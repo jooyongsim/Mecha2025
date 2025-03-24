@@ -2,6 +2,8 @@
 
 `2025메카실습1_Low_Pass_Filter_IIR.ipynb`:
 
+라즈베리파이 실습 참고: https://github.com/gilbutITbook/007013
+
 ---
 
 # 📘 2025 Mechatronics Lab 1: RC Low-Pass Filter using IIR Approximation
