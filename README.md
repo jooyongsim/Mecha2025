@@ -2,8 +2,6 @@
 
 `2025메카실습1_Low_Pass_Filter_IIR.ipynb`:
 
-Colab 튜토리얼을 요약한 **README 한글 버전**입니다. 수식도 포함되어 있으며, 교육 목적에 맞게 친절하게 구성했습니다.
-
 ---
 
 # 📘 2025 메카트로닉스 실습 1: IIR 방식으로 구현한 RC 저역통과필터 (Low-Pass Filter)
