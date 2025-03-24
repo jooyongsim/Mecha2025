@@ -56,15 +56,6 @@ These demonstrate:
 
 ---
 
-## 📂 Files & Structure
-
-This notebook is structured as a progressive tutorial:
-- Each code block builds on the previous one
-- Parameters are gradually modified to explore various filtering behaviors
-- Clear and labeled plots accompany each case
-
----
-
 ## 💡 Learning Outcomes
 
 After going through this tutorial, students should be able to:
