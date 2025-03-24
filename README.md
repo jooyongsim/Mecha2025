@@ -31,6 +31,7 @@ Colab 튜토리얼을 요약한 **README 한글 버전**입니다. 수식도 포
 
 ### ✅ RC 저역통과필터 구현 (IIR 방식)
 - 차분 방정식:
+  ![equation](https://latex.codecogs.com/png.image?\dpi{120}y[n]=\alpha\cdot{}x[n]+(1-\alpha)\cdot{}y[n-1])
   $
   y[n] = \alpha \cdot x[n] + (1 - \alpha) \cdot y[n-1]
   $
